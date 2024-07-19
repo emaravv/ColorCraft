@@ -1,0 +1,10 @@
+
+#button{
+    color: black;
+}
+#logo{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+}

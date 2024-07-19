@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#text-canva{
+    color: black;
+}
+#dropdown{
+    background: #fff;
+    border: none;
+}
+#close{
+    background: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+    color: #fff;
+};
+#h5-canva{
+    color: #fff;
+}
+#footer{
+    background: rgb(33,37,41);
+    color: #fff;
+    margin-top: 30px;
+    text-decoration: none;   
+}
+
+#end{
+    margin-top: 20px;
+}
+
+
+
+#logo-nav{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 100%;
+}
+
+#myCarousel{
+    margin-bottom: 150px;
+}
