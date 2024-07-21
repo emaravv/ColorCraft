@@ -41,3 +41,29 @@
     margin-bottom: 150px;
 }
 
+.bd-placeholder-img1{
+    background: url(/img/Materiais-img-exp2.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.bd-placeholder-img2{
+    background: url(/img/Produtos\ de\ Arte\ bc.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.color-c2{
+    color: black;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+.bd-placeholder-img3{
+    background: url(/img//Produtos\ para\ Escritório\ bc.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.img-material-c{
+    box-shadow: 5px 5px 2.5px gray;
+    border-radius: 10%;
+}
