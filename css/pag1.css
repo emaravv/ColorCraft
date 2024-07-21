@@ -67,3 +67,33 @@
     box-shadow: 5px 5px 2.5px gray;
     border-radius: 10%;
 }
+
+#avalicao1{
+    background: url(/img/carlosFic.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#avalicao2{
+    background: url(/img/anaFic.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#avalicao3{
+    background: url(/img/mariana.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#pr-img1{
+    background: url(/img/pr1.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#pr-img2{
+    background: url(/img/pr2.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#pr-img3{
+    background: url(/img/pr3.jpg) no-repeat center;
+    background-size: cover;
+}
