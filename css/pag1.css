@@ -20,7 +20,7 @@
 #footer{
     background: rgb(33,37,41);
     color: #fff;
-    margin-top: 50px;
+    margin-top: 100px;
     text-decoration: none;   
 }
 
@@ -95,5 +95,24 @@
 
 #pr-img3{
     background: url(/img/pr3.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#fimm{
+    margin-bottom: 50px;
+}
+
+#imgpro1{
+    background: url(/img/kEC.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#imgpro2{
+    background: url(/img/kET.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#imgpro3{
+    background: url(/img/kA.jpg) no-repeat center;
     background-size: cover;
 }
